@@ -1,4 +1,4 @@
-# Insta-Checker
+# AuthenIGCheck
 
 ## Deskripsi
 
